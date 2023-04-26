@@ -332,10 +332,6 @@ input[type='button'].button-primary:focus {
   border-color: #1eaedb;
 }
 
-.button-secondary {
-  background-color: coral;
-}
-
 /* Forms
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 input[type='email'],
